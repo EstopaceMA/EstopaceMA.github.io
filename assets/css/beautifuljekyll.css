@@ -677,6 +677,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .intro-header .page-heading h1 {
   margin-top: 0;
   font-size: 3.125rem;
+  opacity: 0.7;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
@@ -697,6 +698,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
   font-weight: 400;
+  opacity: 0.7;
 }
 .intro-header.big-img .page-heading hr {
   box-shadow: 1px 1px 3px #000;
