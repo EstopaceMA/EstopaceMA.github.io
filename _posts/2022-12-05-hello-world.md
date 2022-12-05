@@ -12,5 +12,5 @@ Hola!, I'll be making blogs starting today. I hope you guys will support me thro
 My blogs content will be regarding the current technology that I'm using as well as the one that
 I'm exploring.
 
-My motive is to share my knowledge and experties to the community to help them throughout their career
+My motive is to share my knowledge and expertise to the community to help them throughout their career
 in Tech Industry.
