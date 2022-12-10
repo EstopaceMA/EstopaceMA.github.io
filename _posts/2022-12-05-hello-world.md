@@ -5,6 +5,7 @@ subtitle: Lorem Ipsum
 tags: [personal]
 cover-img: /assets/img/introductory_cover.jpg
 comments: true
+has-bg-img: big-img
 ---
 
 Hola!, I'll be making blogs starting today. I hope you guys will support me throughout this journey.
