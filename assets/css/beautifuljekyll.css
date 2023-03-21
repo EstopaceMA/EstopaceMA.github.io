@@ -68,6 +68,15 @@ hr.small {
   border-radius: 0.1875rem;
 }
 
+.speaking-container {
+  text-align: center;
+}
+
+.speaking-container p {
+  margin: 0;
+  font-size: small;
+}
+
 /* fix in-page anchors to not be behind fixed header */
 :target:before {
   content: "";
