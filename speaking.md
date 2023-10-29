@@ -5,6 +5,35 @@ subtitle: Do you need a tech speaker? just shoot me a message
 ---
 
 <div class="speaking-container">
+    <h4> { Microsoft Azure Functions:Your Serverless Buddy } </h4>
+    <img src="../assets/img/talks/pwa_azure_functions.jpeg" alt="azure functions" width="50%" height="auto" />
+    <p> August 30, 2023 at eCloud Valley Philippines</p>
+    <a href="https://www.facebook.com/photo/?fbid=272351225543133&set=a.229138426531080" target="_blank">PWA Pilipinas Page - Poster</a>
+    <br>
+    <a href="https://www.facebook.com/photo/?fbid=281526824625573&set=a.229138439864412" target="_blank">PWA Pilipinas Page - Photo dump</a>
+    <br>
+    <a href="https://www.facebook.com/photo/?fbid=281611921283730&set=a.229138439864412" target="_blank">PWA Pilipinas Page - Photo dump</a>
+</div>
+<hr>
+<div class="speaking-container">
+    <h4> { Exploring React:A Deep Dive into Front-End Development } </h4>
+    <img src="../assets/img/talks/pup_exploring_react.png" alt="azure functions" width="50%" height="auto" />
+    <p> June 16, 2023 Webinar at ACESS Page</p>
+    <a href="https://www.facebook.com/photo/?fbid=7144113818940681&set=pcb.7144113915607338" target="_blank">ACCESS Page - Poster</a>
+    <br>
+    <a href="https://www.facebook.com/ACCESSOfficial/videos/646646443634570" target="_blank">ACCESS Page - Livestream</a>
+</div>
+<hr>
+<div class="speaking-container">
+    <h4> { Typescript: Taking JavaScript to the Next Level } </h4>
+    <img src="../assets/img/talks/pwa_typescript.png" alt="typescript" width="50%" height="auto" />
+    <p> May 2, 2023 Webinar at PWA Pilipinas</p>
+    <a href="https://www.facebook.com/PWAPilipinas/photos/a.122761739078374/974988510522355/" target="_blank">PWA Pilipinas Page - Poster</a>
+    <br>
+    <a href="https://www.facebook.com/PWAPilipinas/videos/581291117400842" target="_blank">PWA Pilipinas Page - Livestream</a>
+</div>
+<hr>
+<div class="speaking-container">
     <h4> { Building Web Apps using Javascript } </h4>
     <img src="../assets/img/talks/building_web_apps_using_js.jpeg" alt="building_web_apps_using_js" width="50%" height="auto" />
     <p> March 18, 2023 at Packetworx</p>
