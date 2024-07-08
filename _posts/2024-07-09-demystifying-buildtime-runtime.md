@@ -2,7 +2,6 @@
 layout: post
 title: Demystifying Buildtime and Runtime of software development
 tags: [software development]
-cover-img: /assets/img/javascript-es6/js-es6-banner.jpg
 comments: true
 ---
 

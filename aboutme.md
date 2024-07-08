@@ -5,7 +5,7 @@ subtitle: Let's have some coffee
 ---
 
 I'm Mark Anthony Estopace, a Fullstack Web Developer and
-currently working as a Software Engineer at Samsung Research & Development Philippines.
+currently working as a Product and Technology Expert at Starpay.
 
 ### Outside work
 
