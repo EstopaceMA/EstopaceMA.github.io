@@ -48,9 +48,9 @@ round-avatar: true
 social-network-links:
   email: "estopace.ma@gmail.com"
   # rss: true # remove this line if you don't want to show an RSS link at the bottom
-  facebook: anthonyestopace
+  # facebook: anthonyestopace
   github: EstopaceMA
-  twitter: MA_Estopace
+  # twitter: MA_Estopace
   linkedin: ma-estopace
 #  medium: yourname
 #  reddit: yourname

@@ -5,6 +5,22 @@ subtitle: Do you need a tech speaker? just shoot me a message
 ---
 
 <div class="speaking-container">
+    <h4> { Serverless with Microsoft Azure Cloud } </h4>
+    <img src="../assets/img/talks/serverless-with-microsoft-azure.jpg" alt="azure functions" width="50%" height="auto" />
+    <p> March 7, 2024 Webinar at Batangas State University</p>
+    <a href="https://www.facebook.com/photo?fbid=847396237398391&set=pcb.847396267398388" target="_blank">BatStateU CICS Alangilan Student Council Page - Poster</a>
+</div>
+<hr>
+<div class="speaking-container">
+    <h4> { Learn Serverless Technology with Microsoft Azure } </h4>
+    <img src="../assets/img/talks/azure-functions-trailblazer.jpg" alt="azure functions" width="50%" height="auto" />
+    <p> November 10, 2023 Webinar at FEU Ascend Page</p>
+    <a href="https://www.facebook.com/share/p/15uMooH7Vf/" target="_blank">FEU Ascend Page - Poster</a>
+    <br>
+    <a href="https://www.facebook.com/share/p/15FRwC3KQ2/" target="_blank">FEU Ascend Page - Photo dump</a>
+</div>
+<hr>
+<div class="speaking-container">
     <h4> { Microsoft Azure Functions:Your Serverless Buddy } </h4>
     <img src="../assets/img/talks/pwa_azure_functions.jpeg" alt="azure functions" width="50%" height="auto" />
     <p> August 30, 2023 at eCloud Valley Philippines</p>
@@ -25,12 +41,30 @@ subtitle: Do you need a tech speaker? just shoot me a message
 </div>
 <hr>
 <div class="speaking-container">
+    <h4> { TS x Angular } </h4>
+    <img src="../assets/img/talks/ts-x-angular-ue-caloocan.jpg" alt="typescript" width="50%" height="auto" />
+    <p> May 7, 2023 Webinar at University of the East Caloocan</p>
+    <a href="https://www.facebook.com/photo/?fbid=203320315832440&set=pcb.203321755832296" target="_blank">Google Developer Student Clubs UE Caloocan Page - Poster</a>
+    <br>
+</div>
+<hr>
+<div class="speaking-container">
     <h4> { Typescript: Taking JavaScript to the Next Level } </h4>
     <img src="../assets/img/talks/pwa_typescript.png" alt="typescript" width="50%" height="auto" />
     <p> May 2, 2023 Webinar at PWA Pilipinas</p>
     <a href="https://www.facebook.com/PWAPilipinas/photos/a.122761739078374/974988510522355/" target="_blank">PWA Pilipinas Page - Poster</a>
     <br>
     <a href="https://www.facebook.com/PWAPilipinas/videos/581291117400842" target="_blank">PWA Pilipinas Page - Livestream</a>
+</div>
+<hr>
+<div class="speaking-container">
+    <h4> { Git and Github 101 } </h4>
+    <img src="../assets/img/talks/git_and_github_101_pup_bn.jpg" alt="azure functions" width="50%" height="auto" />
+    <p> April 27, 2023 at Polytechnic University of the Philippines Binan Campus</p>
+    <a href="https://www.facebook.com/photo.php?fbid=616684053836948&set=a.466567708848584&type=3&rdid=s5c80jVyfFSyn9i3&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18oufN3ust" target="_blank">Association of Computer Engineering Students PUPBC Page - Poster</a>
+    <br>
+    <a href="https://www.facebook.com/share/p/1A61WkPG7B/" target="_blank">Association of Computer Engineering Students PUPBC Page - Photo dump</a>
+    <br>
 </div>
 <hr>
 <div class="speaking-container">
