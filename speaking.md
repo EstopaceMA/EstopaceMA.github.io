@@ -5,6 +5,24 @@ subtitle: Do you need a tech speaker? just shoot me a message
 ---
 
 <div class="speaking-container">
+    <h4> { Azure AI Foundry: Building RAG Solution } </h4>
+    <img src="../assets/img/talks/building-rag-with-azure-foundry-plv-banner.jpg" alt="azure functions" width="50%" height="auto" />
+    <p> March 11, 2025 at Pamantasan ng Lungsod ng Valenzuela</p>
+    <a href="https://www.facebook.com/photo/?fbid=1168670711715612&set=pcb.1168670821715601" target="_blank">PLV Association of Electrical Engineering Students Page - Poster</a>
+    <br>
+    <a href="https://www.facebook.com/share/p/1CBvmB255Q/" target="_blank">Photo dump</a>
+</div>
+<hr>
+<div class="speaking-container">
+    <h4> { Powering Up with JavaScript Essentials! } </h4>
+    <img src="../assets/img/talks/js-essential-swits-banner.jpg" alt="azure functions" width="50%" height="auto" />
+    <p> January 25, 2025 Webinar at Bulacan State University</p>
+    <a href="https://www.facebook.com/photo?fbid=1025226859641473&set=a.459221622908669" target="_blank">Bulacan State University SWITS Page - Poster</a>
+    <br>
+    <a href="https://www.facebook.com/share/p/1FmyQhkKXA/" target="_blank">Bulacan State University SWITS Page - Photo dump</a>
+</div>
+<hr>
+<div class="speaking-container">
     <h4> { Serverless with Microsoft Azure Cloud } </h4>
     <img src="../assets/img/talks/serverless-with-microsoft-azure.jpg" alt="azure functions" width="50%" height="auto" />
     <p> March 7, 2024 Webinar at Batangas State University</p>
