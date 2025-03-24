@@ -5,8 +5,24 @@ subtitle: Do you need a tech speaker? just shoot me a message
 ---
 
 <div class="speaking-container">
+    <h4> { Azure IoT Operations: Simulating Real-time Data Ingestion } </h4>
+    <img src="../assets/img/talks/azure-iot-operations-arduino-day-banner.jpg" alt="azure functions" width="50%" height="auto" />
+    <p> March 22, 2025 at Arduino Day Philippines event</p>
+    <a href="https://www.facebook.com/photo?fbid=588718424127299&set=pcb.588718514127290" target="_blank">Arduino Day Philippines Page - Poster</a>
+    <br>
+    <a href="https://www.facebook.com/photo?fbid=591945313804610&set=a.117243384608141" target="_blank">Arduino Day Philippines Page - Highlight</a>
+</div>
+<hr>
+<div class="speaking-container">
+    <h4> { Serverless with Microsoft Azure Functions } </h4>
+    <img src="../assets/img/talks/serverless-ms-functions-letran-banner.jpg" alt="azure functions" width="50%" height="auto" />
+    <p> March 21, 2025 at Colegio de San Juan de Letran</p>
+    <a href="https://www.facebook.com/photo?fbid=1121514359989216&set=a.466400602167265" target="_blank">Letran Information Technology Society (Official) Page - Poster</a>
+</div>
+<hr>
+<div class="speaking-container">
     <h4> { Azure AI Foundry: Building RAG Solution } </h4>
-    <img src="../assets/img/talks/building-rag-with-azure-foundry-plv-banner.jpg" alt="azure functions" width="50%" height="auto" />
+    <img src="../assets/img/talks/building-rag-with-azure-foundry-plv-banner.jpg" alt="azure ai foundry" width="50%" height="auto" />
     <p> March 11, 2025 at Pamantasan ng Lungsod ng Valenzuela</p>
     <a href="https://www.facebook.com/photo/?fbid=1168670711715612&set=pcb.1168670821715601" target="_blank">PLV Association of Electrical Engineering Students Page - Poster</a>
     <br>
@@ -15,7 +31,7 @@ subtitle: Do you need a tech speaker? just shoot me a message
 <hr>
 <div class="speaking-container">
     <h4> { Powering Up with JavaScript Essentials! } </h4>
-    <img src="../assets/img/talks/js-essential-swits-banner.jpg" alt="azure functions" width="50%" height="auto" />
+    <img src="../assets/img/talks/js-essential-swits-banner.jpg" alt="javascript essentials" width="50%" height="auto" />
     <p> January 25, 2025 Webinar at Bulacan State University</p>
     <a href="https://www.facebook.com/photo?fbid=1025226859641473&set=a.459221622908669" target="_blank">Bulacan State University SWITS Page - Poster</a>
     <br>
@@ -24,7 +40,7 @@ subtitle: Do you need a tech speaker? just shoot me a message
 <hr>
 <div class="speaking-container">
     <h4> { Serverless with Microsoft Azure Cloud } </h4>
-    <img src="../assets/img/talks/serverless-with-microsoft-azure.jpg" alt="azure functions" width="50%" height="auto" />
+    <img src="../assets/img/talks/serverless-with-microsoft-azure.jpg" alt="serverless with azure cloud" width="50%" height="auto" />
     <p> March 7, 2024 Webinar at Batangas State University</p>
     <a href="https://www.facebook.com/photo?fbid=847396237398391&set=pcb.847396267398388" target="_blank">BatStateU CICS Alangilan Student Council Page - Poster</a>
 </div>
@@ -51,7 +67,7 @@ subtitle: Do you need a tech speaker? just shoot me a message
 <hr>
 <div class="speaking-container">
     <h4> { Exploring React:A Deep Dive into Front-End Development } </h4>
-    <img src="../assets/img/talks/pup_exploring_react.png" alt="azure functions" width="50%" height="auto" />
+    <img src="../assets/img/talks/pup_exploring_react.png" alt="exploring react" width="50%" height="auto" />
     <p> June 16, 2023 Webinar at ACESS Page</p>
     <a href="https://www.facebook.com/photo/?fbid=7144113818940681&set=pcb.7144113915607338" target="_blank">ACCESS Page - Poster</a>
     <br>
