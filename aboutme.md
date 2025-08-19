@@ -4,9 +4,6 @@ title: About me
 subtitle: Let's have some coffee
 ---
 
-I'm Mark Anthony Estopace, a Fullstack Web Developer and
-currently working as a Product and Technology Expert at Starpay.
+### Who Am I
 
-### Outside work
-
-I do talk in tech events and I love to volunteer in tech communities.
+I'm Mark Anthony Estopace, Senior Full Stack Developer at Cambridge University Press & Assessment | Founder of Microsoft Azure Community Philippines
