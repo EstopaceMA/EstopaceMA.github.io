@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Containerization Matters + An Introduction to Docker
+title: The Importance of Containerization and How Docker Makes It Simple
 tags: [container, docker]
 cover-img: /assets/img/docker-cover.png
 comments: true
