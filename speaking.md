@@ -5,8 +5,64 @@ subtitle: Do you need a tech speaker? just shoot me a message
 ---
 
 <div class="speaking-container">
+    <h4> { Seamless Deployment with Azure Container Apps } </h4>
+    <img src="../assets/img/talks/seamless-deployment-with-azure-container-apps.jpg" alt="azure container apps" width="50%" height="auto" />
+    <p> August 15, 2025 Microsoft Azure Community Philippines Meetup at White Cloak Technologies Inc.</p>
+    <a href="https://www.facebook.com/share/p/1BMWq43eHf/" target="_blank">Photo Dump</a>
+</div>
+<hr>
+<div class="speaking-container">
+    <h4> { A Strategic Guide to Modern Backend Systems: Engineering the Backbone } </h4>
+    <img src="../assets/img/talks/strategic-guide-to-modern-backend-systems.jpg" alt="azure paas" width="50%" height="auto" />
+    <p> July 5, 2025 Debug4 event by HackTheNorth PH Community</p>
+    <a href="https://www.facebook.com/share/p/1HfgueZ4FJ/" target="_blank">Photo Dump</a>
+</div>
+<hr>
+<div class="speaking-container">
+    <h4> { Building Resilient and Scalable Apps with Azure Service Bus } </h4>
+    <img src="../assets/img/talks/my-talk-at-code-blue-meetup.jpg" alt="azure service bus" width="50%" height="auto" />
+    <p> June 21, 2025 Microsoft Azure Community Philippines Meetup at Dewise Solutions</p>
+    <a href="https://www.facebook.com/share/p/1B6ws4r7d5/" target="_blank">Photo Dump</a>
+</div>
+<hr>
+<div class="speaking-container">
+    <h4> { Simplifying Application Deployment through Microsoft Azure App Service } </h4>
+    <img src="../assets/img/talks/azure-app-service-sti-orca.jpg" alt="azure app service" width="50%" height="auto" />
+    <p> May 26, 2025 at STI College Ortigas-Cainta</p>
+    <a href="https://www.facebook.com/share/p/1B6MtWSJhW/" target="_blank">Photo Dump</a>
+</div>
+<hr>
+<div class="speaking-container">
+    <h4> { Exploring Azure AI Foundry: Your first step into AI Development } </h4>
+    <img src="../assets/img/talks/azure-ai-foundry-pup.jpg" alt="azure ai foundry" width="50%" height="auto" />
+    <p> May 13, 2025 at PUP Binan (Online)</p>
+    <a href="https://www.facebook.com/share/1A5kzNt2nG/" target="_blank">Photo Dump</a>
+</div>
+<hr>
+<div class="speaking-container">
+    <h4> { Global Azure 2025: Streamlining Software Delivery with Azure DevOps: From Code to Cloud } </h4>
+    <img src="../assets/img/talks/my-talk-at-global-azure.jpg" alt="azure devops" width="50%" height="auto" />
+    <p> May 08, 2025 at Global Azure - Dewise</p>
+    <a href="https://www.facebook.com/MicrosoftAzurePH/posts/pfbid0Yv5ExsVRKhhGkvKzdZf6KUBV5E3YBFonfA1baNdRQJXiYKoa9izMd9WCwq2jvx22l" target="_blank">Photo Dump</a>
+</div>
+<hr>
+<div class="speaking-container">
+    <h4> { Streamlining Software Development with Microsoft Azure DevOps } </h4>
+    <img src="../assets/img/talks/azure-devops-nu-cavite.jpg" alt="azure devops" width="50%" height="auto" />
+    <p> April 23, 2025 at National University, Dasma Cavite</p>
+    <a href="https://www.facebook.com/share/p/1BJQ1JpmTo/" target="_blank">Photo Dump</a>
+</div>
+<hr>
+<div class="speaking-container">
+    <h4> { Leveraging Azure DevOps for Modern Apps: Effortless Cloud Deployments } </h4>
+    <img src="../assets/img/talks/azure-devops-cvsu.jpg" alt="azure devops" width="50%" height="auto" />
+    <p> April 22, 2025 at Cavite State University Main Campus</p>
+    <a href="https://www.facebook.com/share/p/1BPpwbaTHK/" target="_blank">Photo Dump</a>
+</div>
+<hr>
+<div class="speaking-container">
     <h4> { Azure IoT Operations: Simulating Real-time Data Ingestion } </h4>
-    <img src="../assets/img/talks/azure-iot-operations-arduino-day-banner.jpg" alt="azure functions" width="50%" height="auto" />
+    <img src="../assets/img/talks/azure-iot-operations-arduino-day-banner.jpg" alt="azure iot" width="50%" height="auto" />
     <p> March 22, 2025 at Arduino Day Philippines event</p>
     <a href="https://www.facebook.com/photo?fbid=588718424127299&set=pcb.588718514127290" target="_blank">Arduino Day Philippines Page - Poster</a>
     <br>
