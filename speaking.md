@@ -5,6 +5,21 @@ subtitle: Do you need a tech speaker? just shoot me a message
 ---
 
 <div class="speaking-container">
+    <h4> { Ship Fast with Confidence: CI/CD for Azure Container Apps using GitHub Actions } </h4>
+    <img src="../assets/img/talks/october-10-meetup-2025.jpg" alt="azure container apps" width="50%" height="auto" />
+    <p> October 10, 2025 Microsoft Azure Community Philippines at eCloudValley</p>
+    <a href="https://www.facebook.com/share/p/17eSevNQUS/" target="_blank">Highlight</a>
+    <a href="https://www.facebook.com/share/p/1K8AaJ6ynK/" target="_blank">Photo Dump</a>
+</div>
+<hr>
+<div class="speaking-container">
+    <h4> { Automating Deployments to Azure Static Web Apps with GitHub Actions } </h4>
+    <img src="../assets/img/talks/september-meetup-talk.jpg" alt="azure static webapps" width="50%" height="auto" />
+    <p> September 26, 2025 at Microsoft Azure Community Philippines Page</p>
+    <a href="https://www.facebook.com/share/p/1BNmxBo92M/" target="_blank">Poster</a>
+</div>
+<hr>
+<div class="speaking-container">
     <h4> { Seamless Deployment with Azure Container Apps } </h4>
     <img src="../assets/img/talks/seamless-deployment-with-azure-container-apps.jpg" alt="azure container apps" width="50%" height="auto" />
     <p> August 15, 2025 Microsoft Azure Community Philippines Meetup at White Cloak Technologies Inc.</p>
