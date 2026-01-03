@@ -5,17 +5,58 @@ subtitle: Do you need a tech speaker? just shoot me a message
 ---
 
 <div class="speaking-container">
+    <h4> { Observability and Monitoring in Azure } </h4>
+    <img src="../assets/img/talks/sparkcon-2025.jpg" alt="azure developer cli" width="50%" height="auto" />
+    <p> December 14, 2025 SparkCon at SMX Olongapo City</p>
+    <a href="https://www.facebook.com/share/1ArNKpeHaP/" target="_blank">Poster</a> |
+    <a href="https://www.facebook.com/share/p/17ePrtJh85/" target="_blank">Photo Dump</a>
+</div>
+<div class="speaking-container">
+    <h4> { Designing Reliable Cloud Systems with Azure Monitor } </h4>
+    <img src="../assets/img/talks/december-12-meetup-2025.jpg" alt="azure developer cli" width="50%" height="auto" />
+    <p> December 12, 2025 Microsoft Azure Community Philippines at White Cloak Technologies Inc.</p>
+    <a href="https://www.facebook.com/share/p/16ajMMbjgc/" target="_blank">Poster</a> |
+    <a href="https://www.facebook.com/share/p/1aUgwWkgRV/" target="_blank">Photo Dump</a>
+</div>
+<div class="speaking-container">
+    <h4> { Contributing to Open Source: Building an Awesome AZD Template } </h4>
+    <img src="../assets/img/talks/november-28-meetup-2025.jpg" alt="azure developer cli" width="50%" height="auto" />
+    <p> November 28, 2025 Microsoft Azure Community Philippines Facebook Page</p>
+    <a href="https://www.facebook.com/share/p/14LUUv9oYYi/" target="_blank">Poster</a>
+</div>
+<div class="speaking-container">
+    <h4> { Containerizing and Deploying Python App with Azure Container Apps } </h4>
+    <img src="../assets/img/talks/pycon-davao-2025.jpg" alt="github actions" width="50%" height="auto" />
+    <p> October 25 at PyCon Davao</p>
+    <a href="https://www.facebook.com/share/19oQSFu994/" target="_blank">Highlight</a> |
+    <a href="https://www.facebook.com/share/p/17uaoXiq9w/" target="_blank">Photo Dump</a>
+</div>
+<div class="speaking-container">
+    <h4> { Using Github Actions for Automated Deployments to Azure } </h4>
+    <img src="../assets/img/talks/october-feu-alabang-2025.jpg" alt="github actions" width="50%" height="auto" />
+    <p> October 23 at FEU Alabang</p>
+    <a href="https://www.facebook.com/share/p/1Ck7ALT7XC/" target="_blank">Highlights</a> |
+    <a href="https://www.facebook.com/share/p/1ETuwcqyeN/" target="_blank">Photo Dump</a>
+</div>
+<div class="speaking-container">
+    <h4> { Deploy to Azure with Azure Developer CLI(azd) } </h4>
+    <img src="../assets/img/talks/october-17-meetup-2025.jpg" alt="azure developer cli" width="50%" height="auto" />
+    <p> October 17, 2025 Microsoft Azure Community Philippines at Dewise Solutions</p>
+    <a href="https://www.facebook.com/share/p/1CLkVBYhJd/" target="_blank">Highlight</a> |
+    <a href="https://www.facebook.com/share/p/1JjcqgA9CN/" target="_blank">Photo Dump</a>
+</div>
+<div class="speaking-container">
     <h4> { Ship Fast with Confidence: CI/CD for Azure Container Apps using GitHub Actions } </h4>
     <img src="../assets/img/talks/october-10-meetup-2025.jpg" alt="azure container apps" width="50%" height="auto" />
     <p> October 10, 2025 Microsoft Azure Community Philippines at eCloudValley</p>
-    <a href="https://www.facebook.com/share/p/17eSevNQUS/" target="_blank">Highlight</a>
+    <a href="https://www.facebook.com/share/p/17eSevNQUS/" target="_blank">Highlight</a> |
     <a href="https://www.facebook.com/share/p/1K8AaJ6ynK/" target="_blank">Photo Dump</a>
 </div>
 <hr>
 <div class="speaking-container">
     <h4> { Automating Deployments to Azure Static Web Apps with GitHub Actions } </h4>
     <img src="../assets/img/talks/september-meetup-talk.jpg" alt="azure static webapps" width="50%" height="auto" />
-    <p> September 26, 2025 at Microsoft Azure Community Philippines Page</p>
+    <p> September 26, 2025 at Microsoft Azure Community Philippines Facebook Page</p>
     <a href="https://www.facebook.com/share/p/1BNmxBo92M/" target="_blank">Poster</a>
 </div>
 <hr>
@@ -79,8 +120,7 @@ subtitle: Do you need a tech speaker? just shoot me a message
     <h4> { Azure IoT Operations: Simulating Real-time Data Ingestion } </h4>
     <img src="../assets/img/talks/azure-iot-operations-arduino-day-banner.jpg" alt="azure iot" width="50%" height="auto" />
     <p> March 22, 2025 at Arduino Day Philippines event</p>
-    <a href="https://www.facebook.com/photo?fbid=588718424127299&set=pcb.588718514127290" target="_blank">Arduino Day Philippines Page - Poster</a>
-    <br>
+    <a href="https://www.facebook.com/photo?fbid=588718424127299&set=pcb.588718514127290" target="_blank">Arduino Day Philippines Page - Poster</a> |
     <a href="https://www.facebook.com/photo?fbid=591945313804610&set=a.117243384608141" target="_blank">Arduino Day Philippines Page - Highlight</a>
 </div>
 <hr>
@@ -95,8 +135,7 @@ subtitle: Do you need a tech speaker? just shoot me a message
     <h4> { Azure AI Foundry: Building RAG Solution } </h4>
     <img src="../assets/img/talks/building-rag-with-azure-foundry-plv-banner.jpg" alt="azure ai foundry" width="50%" height="auto" />
     <p> March 11, 2025 at Pamantasan ng Lungsod ng Valenzuela</p>
-    <a href="https://www.facebook.com/photo/?fbid=1168670711715612&set=pcb.1168670821715601" target="_blank">PLV Association of Electrical Engineering Students Page - Poster</a>
-    <br>
+    <a href="https://www.facebook.com/photo/?fbid=1168670711715612&set=pcb.1168670821715601" target="_blank">PLV Association of Electrical Engineering Students Page - Poster</a> |
     <a href="https://www.facebook.com/share/p/1CBvmB255Q/" target="_blank">Photo dump</a>
 </div>
 <hr>
@@ -104,8 +143,7 @@ subtitle: Do you need a tech speaker? just shoot me a message
     <h4> { Powering Up with JavaScript Essentials! } </h4>
     <img src="../assets/img/talks/js-essential-swits-banner.jpg" alt="javascript essentials" width="50%" height="auto" />
     <p> January 25, 2025 Webinar at Bulacan State University</p>
-    <a href="https://www.facebook.com/photo?fbid=1025226859641473&set=a.459221622908669" target="_blank">Bulacan State University SWITS Page - Poster</a>
-    <br>
+    <a href="https://www.facebook.com/photo?fbid=1025226859641473&set=a.459221622908669" target="_blank">Bulacan State University SWITS Page - Poster</a> |
     <a href="https://www.facebook.com/share/p/1FmyQhkKXA/" target="_blank">Bulacan State University SWITS Page - Photo dump</a>
 </div>
 <hr>
